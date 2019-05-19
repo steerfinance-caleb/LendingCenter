@@ -1,0 +1,17 @@
+body {
+  background-color: #909497;
+}
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: 'Harabara Bold', Arial, sans-serif;
+  text-decoration: underline;
+}
+h2 {
+  color: black;
+  text-align: center;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
+}
+p {
+  color: red;
+}
